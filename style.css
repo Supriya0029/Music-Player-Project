@@ -1,0 +1,287 @@
+#divmain{
+    display: flex;
+    justify-content:space-evenly;  
+    margin-top: 20px; 
+}
+#divmain>span{
+    size: 30px;
+}
+#divmain>img{
+    height: 65px;
+    width: 90px;
+    margin-top:-10PX;  
+}
+#divmain>form>input{
+    width: 500px;
+    border-radius:20px;
+    height: 30px;
+}
+
+#div1>button{
+    border-radius:30px; 
+    height: 30px;
+    background-color: orangered;
+    color: white;
+}
+#div2>button{
+    border-radius:30px; 
+    height: 30px;
+    color: orangered;
+    border-color: orangered;
+}
+#divmain>a{
+    text-decoration: none;
+    color: black;
+}
+#divmain>b{
+    text-decoration: none;
+    color: black;
+}
+#divmain1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#divmain1>a{
+    text-decoration: none;
+    color: black;
+}
+#divmain2{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 30px;
+}
+#divmain2>img{
+    height:220px;
+    width: 420px;
+}
+#divmain3{
+    display: flex;
+    justify-content: space-between;
+}
+#divmain3>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain3>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain3>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+    color: gray;
+}
+#div3>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#div4>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#divmain4>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#divmain4>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain4>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain4{
+    display: flex;
+    justify-content: space-between;
+}
+#div5>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+        
+}
+#divmain5{
+    display: flex;
+    justify-content: space-between;
+}
+
+#divmain5>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain5>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain5>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#div6>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+
+}
+#divmain6{
+    display: flex;
+    justify-content: space-evenly;
+}
+#divmain6>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain6>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain6>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#divmain7{
+    justify-content:end;
+}
+#divmain7>img{
+       height: 65px;
+       width: 1200px;
+       margin-left: 40px;
+}
+#div8>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#divmain8{
+    display: flex;
+    justify-content: space-evenly;
+}
+#divmain8>div>img{
+    border-radius:10px;
+    height:180px;
+    width: 180px;
+    border-radius: 100%;
+}
+#divmain8>div>p{
+    font-size:20px;
+    margin-top: 8px;
+   margin-left: 20px;
+}
+
+#div9>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#divmain9>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain9>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain9{
+    display: flex;
+    justify-content: space-between;
+}
+#divmain9>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#div10>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#divmain10>div>img{
+    border-radius:10px;
+    height:170px;
+    width: 170px;
+}
+#divmain10>div>p{
+    font-size:20px;
+    margin-top: 6px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+#divmain10{
+    display: flex;
+    justify-content: space-between;
+}
+#divmain10>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#div11>a{
+    justify-content: end;
+    text-decoration: none;
+    color: black;
+}
+#divmain11{
+    display: flex;
+    justify-content: space-evenly;
+}
+#divmain11>div>img{
+    border-radius:10px;
+    height:180px;
+    width: 180px;
+    border-radius: 100%;
+}
+#divmain11>div>p{
+    font-size:20px;
+    margin-top: 6px;
+   margin-left: 20px;
+   margin-left: 30px;
+}
+#divmain11>div>button{
+    border-radius:100%;
+    border-color:transparent;
+    background-color: white;
+        color: gray;
+}
+#divmain12{
+    margin-top: 30px;
+}
+#divmain12>h1{
+    text-align: center;
+}
+#divmain12>p{
+    text-align: center;
+    color: darkgray;
+}
